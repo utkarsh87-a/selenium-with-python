@@ -1,0 +1,24 @@
+08/16/2021 03:29:55 PM - Util - INFO: Actual Text From Application Web UI --> :: Home Page
+08/16/2021 03:29:55 PM - Util - INFO: Expected Text From Application Web UI --> :: Home Page
+08/16/2021 03:29:55 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+p or Log In')] locatorType: xpath
+08/16/2021 03:29:06 PM - EnrollmentPage - INFO: Element found with locator: //a[contains(text(),'Sign Up')] and  locatorType: xpath
+08/16/2021 03:29:08 PM - EnrollmentPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign Up')] locatorType: xpath
+08/16/2021 03:29:08 PM - EnrollmentPage - INFO: Element found with locator: name and  locatorType: id
+08/16/2021 03:29:10 PM - EnrollmentPage - INFO: Sent data on element with locator: name locatorType: id
+08/16/2021 03:29:10 PM - EnrollmentPage - INFO: Element found with locator: last_name and  locatorType: id
+08/16/2021 03:29:10 PM - EnrollmentPage - INFO: Sent data on element with locator: last_name locatorType: id
+08/16/2021 03:29:10 PM - EnrollmentPage - INFO: Element found with locator: email and  locatorType: id
+08/16/2021 03:29:13 PM - EnrollmentPage - INFO: Sent data on element with locator: email locatorType: id
+08/16/2021 03:29:13 PM - EnrollmentPage - INFO: Element found with locator: password and  locatorType: id
+08/16/2021 03:29:13 PM - EnrollmentPage - INFO: Sent data on element with locator: password locatorType: id
+08/16/2021 03:29:13 PM - EnrollmentPage - INFO: Element found with locator: password_confirmation and  locatorType: id
+08/16/2021 03:29:13 PM - EnrollmentPage - INFO: Sent data on element with locator: password_confirmation locatorType: id
+08/16/2021 03:29:20 PM - EnrollmentPage - INFO: Element found with locator: //input[@type='submit'] and  locatorType: xpath
+08/16/2021 03:29:26 PM - EnrollmentPage - INFO: Clicked on element with locator: //input[@type='submit'] locatorType: xpath
+08/16/2021 03:29:33 PM - EnrollmentPage - INFO: Element found with locator: //h1[contains(text(),'My Courses')] and  locatorType: xpath
+08/16/2021 03:29:33 PM - EnrollmentPage - INFO: Element present with locator: //h1[contains(text(),'My Courses')] locatorType: xpath
+08/16/2021 03:29:40 PM - EnrollmentPage - INFO: Element found with locator: //a/span[@class='caret'] and  locatorType: xpath
+08/16/2021 03:29:40 PM - EnrollmentPage - INFO: Clicked on element with locator: //a/span[@class='caret'] locatorType: xpath
+08/16/2021 03:29:44 PM - EnrollmentPage - INFO: Element found with locator: //a[contains(text(),'Logout')] and  locatorType: xpath
+08/16/2021 03:29:49 PM - EnrollmentPage - INFO: Clicked on element with locator: //a[contains(text(),'Logout')] locatorType: xpath

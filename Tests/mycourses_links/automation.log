@@ -1,0 +1,40 @@
+08/17/2021 10:40:00 AM - CoursesLinkPage - INFO: Element found with locator: //div[contains(text(),'Sign Up or Log In')] and  locatorType: xpath
+08/17/2021 10:40:05 AM - CoursesLinkPage - INFO: Clicked on element with locator: //div[contains(text(),'Sign Up or Log In')] locatorType: xpath
+08/17/2021 10:40:11 AM - CoursesLinkPage - INFO: Element found with locator: email and  locatorType: id
+08/17/2021 10:40:12 AM - CoursesLinkPage - INFO: Sent data on element with locator: email locatorType: id
+08/17/2021 10:40:12 AM - CoursesLinkPage - INFO: Element found with locator: password and  locatorType: id
+08/17/2021 10:40:12 AM - CoursesLinkPage - INFO: Sent data on element with locator: password locatorType: id
+08/17/2021 10:40:12 AM - CoursesLinkPage - INFO: Element found with locator: //input[@value='Login'] and  locatorType: xpath
+08/17/2021 10:40:15 AM - CoursesLinkPage - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+08/17/2021 10:40:21 AM - CoursesLinkPage - INFO: Element list found with locator: //div[@data-component='list']/ul/li and  locatorType: xpath
+08/17/2021 10:40:21 AM - CoursesLinkPage - INFO: total number of links is6
+08/17/2021 10:40:21 AM - CoursesLinkPage - INFO: Element list found with locator: //div[@data-component='list']/ul/li['+str(i)+'] and  locatorType: xpath
+08/17/2021 10:40:21 AM - CoursesLinkPage - INFO: Element list found with locator: //div[@data-component='list']/ul/li['+str(i)+'] and  locatorType: xpath
+08/17/2021 10:40:21 AM - CoursesLinkPage - INFO: Element list found with locator: //div[@data-component='list']/ul/li['+str(i)+'] and  locatorType: xpath
+08/17/2021 10:40:21 AM - CoursesLinkPage - INFO: Element list found with locator: //div[@data-component='list']/ul/li['+str(i)+'] and  locatorType: xpath
+08/17/2021 10:40:21 AM - CoursesLinkPage - INFO: Element list found with locator: //div[@data-component='list']/ul/li['+str(i)+'] and  locatorType: xpath
+08/17/2021 10:40:21 AM - CoursesLinkPage - INFO: Element list found with locator: //div[@data-component='list']/ul/li['+str(i)+'] and  locatorType: xpath
+08/17/2021 10:40:21 AM - CoursesLinkPage - DEBUG: Before finding text
+08/17/2021 10:40:22 AM - CoursesLinkPage - DEBUG: After finding element, size is: 4
+08/17/2021 10:40:22 AM - CoursesLinkPage - INFO: Getting text on element :: 
+08/17/2021 10:40:22 AM - CoursesLinkPage - INFO: The text is :: 'Home'
+08/17/2021 10:40:22 AM - CoursesLinkPage - DEBUG: Before finding text
+08/17/2021 10:40:22 AM - CoursesLinkPage - DEBUG: After finding element, size is: 7
+08/17/2021 10:40:22 AM - CoursesLinkPage - INFO: Getting text on element :: 
+08/17/2021 10:40:22 AM - CoursesLinkPage - INFO: The text is :: 'Courses'
+08/17/2021 10:40:22 AM - CoursesLinkPage - DEBUG: Before finding text
+08/17/2021 10:40:22 AM - CoursesLinkPage - DEBUG: After finding element, size is: 7
+08/17/2021 10:40:22 AM - CoursesLinkPage - INFO: Getting text on element :: 
+08/17/2021 10:40:22 AM - CoursesLinkPage - INFO: The text is :: 'Support'
+08/17/2021 10:40:22 AM - CoursesLinkPage - DEBUG: Before finding text
+08/17/2021 10:40:22 AM - CoursesLinkPage - DEBUG: After finding element, size is: 18
+08/17/2021 10:40:22 AM - CoursesLinkPage - INFO: Getting text on element :: 
+08/17/2021 10:40:22 AM - CoursesLinkPage - INFO: The text is :: 'Terms & Conditions'
+08/17/2021 10:40:22 AM - CoursesLinkPage - DEBUG: Before finding text
+08/17/2021 10:40:22 AM - CoursesLinkPage - DEBUG: After finding element, size is: 14
+08/17/2021 10:40:22 AM - CoursesLinkPage - INFO: Getting text on element :: 
+08/17/2021 10:40:22 AM - CoursesLinkPage - INFO: The text is :: 'Privacy Policy'
+08/17/2021 10:40:22 AM - CoursesLinkPage - DEBUG: Before finding text
+08/17/2021 10:40:22 AM - CoursesLinkPage - DEBUG: After finding element, size is: 13
+08/17/2021 10:40:22 AM - CoursesLinkPage - INFO: Getting text on element :: 
+08/17/2021 10:40:22 AM - CoursesLinkPage - INFO: The text is :: 'Cookie Policy'

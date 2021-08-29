@@ -1,0 +1,5 @@
+08/16/2021 06:05:22 PM - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It – Anyone Can Code
+08/16/2021 06:05:22 PM - Util - INFO: Expected Text From Application Web UI --> :: Let's Kode It – Anyone Can Code
+08/16/2021 06:05:22 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+und with locator: //span[contains(text(),'Elements Practice')] and  locatorType: xpath
+08/16/2021 06:05:14 PM - PractiseElementPage - INFO: hover done on element and clicked it
